@@ -1,3 +1,6 @@
+I am still struggling a bit with connecting all the JavaScript language together for functions to run properly on my own.  I referred back to the lecture to help me through this assignment. The assignment steps feel daunting and overwhelming for me but maybe they shouldn't. It's like I'm following along with each piece but can't put it all together to work.
+
+
 # Note taking app
 
 &nbsp;
